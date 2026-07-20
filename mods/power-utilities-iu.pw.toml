@@ -1,0 +1,13 @@
+name = "[IU] Power Utilities "
+filename = "Power Utilities-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d01ce1623e23cf196b4c28a8797ac168673194d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8205333
+project-id = 572640

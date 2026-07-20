@@ -1,6 +1,81 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "9cb8d355c77067b00a96d96db398f60db62a6ee238dabff45ade33dd8d9f9e3b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "a2aa051ec45ec685f523fbf3813f23c5fde1935d7193e248871f1427ca1dd558"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
+file = "mods/industrial-upgrade.pw.toml"
+hash = "76b97aa2adfe67e5403d197ddba7718eae0896c2c1e798abcaa620dcd19203f2"
+metafile = true
+
+[[files]]
+file = "mods/iu-diamond-vein.pw.toml"
+hash = "e75fda691248b6ac9ba09d260e073113ad10f32b271fd39b0f8eb7269dc03126"
+metafile = true
+
+[[files]]
+file = "mods/iu-watering-can.pw.toml"
+hash = "b3c9285982b413ddff26cf1336580dcbd1e9385b2a46914b522a9123f2cfc462"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
+metafile = true
+
+[[files]]
+file = "mods/power-utilities-iu.pw.toml"
+hash = "451ff6225ed20c4f9877623cb625881d539e238197193ecb872f1825eb6df3dc"
+metafile = true
+
+[[files]]
+file = "mods/quantum-generators.pw.toml"
+hash = "345df1f417057ce441db9d79eed15212d5be5ec5ff8390669adab49289c1ced9"
+metafile = true
+
+[[files]]
+file = "mods/reactor-plus.pw.toml"
+hash = "3c025d149af2b6f528b17a5660d0e14ef32ac16cdb4246ab9746dd7c927e213c"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "985a99f7465b68e43b98f3dbe1081b7113d957c7926a8caab163503528910f42"
+metafile = true
+
+[[files]]
+file = "mods/simply-quarries.pw.toml"
+hash = "87508c439e3ff2cca92d6fb21b137e7092fa6de6f42038cafead1ad11deee244"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
 metafile = true

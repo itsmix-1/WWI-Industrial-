@@ -1,0 +1,13 @@
+name = "[IU] Quantum Generators"
+filename = "Quantum Generators-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9a8317201d9a932b8a7fa28f4fd6335ad1e9a9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8205352
+project-id = 572971

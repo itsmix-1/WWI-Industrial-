@@ -1,0 +1,13 @@
+name = "[IU] Reactor Plus"
+filename = "reactorplus-1.21.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69ceb90f9d7c409c78a9fef18b55455b540da997"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6992013
+project-id = 1339176

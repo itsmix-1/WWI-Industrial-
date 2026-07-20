@@ -1,0 +1,13 @@
+name = "[IU] Simply Quarries"
+filename = "Simply Quarries-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f71997fbc2ef91e0d68d9ccab7368cffb50eb91a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8204495
+project-id = 572662
