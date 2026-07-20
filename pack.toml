@@ -1,0 +1,13 @@
+name = "WWI Industrial"
+author = "Die 3 Musketiere"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "298df7a878d8347f05ae467e24927bf7c2876f4d6202f298df4fe918beeeeb9d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.241"
