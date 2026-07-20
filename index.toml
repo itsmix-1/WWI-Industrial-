@@ -11,6 +11,16 @@ hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "346f28e2ec19543a6b410bf2cf5389401bc6d1aa0189e39d07bf11d64d8bd321"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
 file = "mods/ftb-filter-system.pw.toml"
 hash = "9cb8d355c77067b00a96d96db398f60db62a6ee238dabff45ade33dd8d9f9e3b"
 metafile = true
@@ -21,8 +31,18 @@ hash = "a2aa051ec45ec685f523fbf3813f23c5fde1935d7193e248871f1427ca1dd558"
 metafile = true
 
 [[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "d1cd2e49985872d923864aa44e4ff8b4d97e3ab9e78bf2c5fd57d2275a62901b"
+metafile = true
+
+[[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "37c3d507be086258aec8a0814224578a1c665749adbb0332d33c32a684086d94"
 metafile = true
 
 [[files]]
@@ -43,6 +63,16 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "fb6171c8f7ff0d83513b3f75ee5d7a98659559c427d79fb69eb0219639af8a37"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b0364f6b95f6ed837239c232bad0e2d7317e58f0e4c040e66a4f533239d5775e"
 metafile = true
 
 [[files]]
