@@ -81,6 +81,11 @@ hash = "b0364f6b95f6ed837239c232bad0e2d7317e58f0e4c040e66a4f533239d5775e"
 metafile = true
 
 [[files]]
+file = "mods/multiblocked2.pw.toml"
+hash = "c64729424754bc6e5356fa4bc2b997de6c5a4ae9104c73a7ab790e00324339c8"
+metafile = true
+
+[[files]]
 file = "mods/power-utilities-iu.pw.toml"
 hash = "451ff6225ed20c4f9877623cb625881d539e238197193ecb872f1825eb6df3dc"
 metafile = true
