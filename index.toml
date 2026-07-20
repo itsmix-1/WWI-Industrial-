@@ -51,6 +51,11 @@ hash = "76b97aa2adfe67e5403d197ddba7718eae0896c2c1e798abcaa620dcd19203f2"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
+metafile = true
+
+[[files]]
 file = "mods/iu-diamond-vein.pw.toml"
 hash = "e75fda691248b6ac9ba09d260e073113ad10f32b271fd39b0f8eb7269dc03126"
 metafile = true
@@ -103,6 +108,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d1e3b1580e6c5134615f7a80a71a56de78f2df5ba2a380f5429c0f0f146d7a36"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "839e60d3150e7caa7ebe2ab0cadd37ba31b8d8dcc687fc8fc888a76faba5dd00"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "9f0cd1d096b591cb49077fbe4f95a1e24a93354cd9b4d77e74c49af2d29381cf"
 metafile = true
 
 [[files]]
